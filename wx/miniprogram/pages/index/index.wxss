@@ -1,19 +1,16 @@
-/**index.wxss**/
-.userinfo {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  color: #aaa;
+.page-section-gap{
+  box-sizing: border-box;
+  padding: 0 30rpx;
 }
 
-.userinfo-avatar {
-  overflow: hidden;
-  width: 128rpx;
-  height: 128rpx;
-  margin: 20rpx;
-  border-radius: 50%;
+.page-body-button {
+  margin-bottom: 30rpx;
 }
-
-.usermotto {
-  margin-top: 200px;
+.map{
+  width:100%;
+  height: 100%;
+}
+page{
+  width:100%;
+  height: 100%;
 }
